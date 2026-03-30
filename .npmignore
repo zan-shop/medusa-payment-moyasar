@@ -1,0 +1,44 @@
+# Source files
+src/
+
+# Configuration files
+tsconfig.json
+jest.config.js
+.yarnrc.yml
+.gitignore
+.npmignore
+
+# Tests
+**/__tests__
+**/__mocks__
+**/__fixtures__
+*.spec.ts
+*.test.ts
+
+# Documentation (keep README.md and CHANGELOG.md)
+docs/
+
+# Development files
+.DS_Store
+*.log
+yarn-error.log
+.yarn/*
+!.yarn/releases
+
+# Build artifacts
+*.tsbuildinfo
+.cache
+
+# Environment
+.env
+.env.*
+
+# Editor
+.idea
+.vscode
+*.swp
+*.swo
+
+# Git
+.git
+.gitattributes

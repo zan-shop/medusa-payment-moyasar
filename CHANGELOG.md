@@ -1,3 +1,10 @@
+## [0.1.3](https://github.com/zan-shop/medusa-payment-moyasar/compare/v0.1.2...v0.1.3) (2026-06-02)
+
+
+### Bug Fixes
+
+* verify dual publish workflow ([#4](https://github.com/zan-shop/medusa-payment-moyasar/issues/4)) ([68f31d4](https://github.com/zan-shop/medusa-payment-moyasar/commit/68f31d4d24f5e228fb17d31b43f720e6286dfdb5))
+
 # Changelog
 
 All notable changes to this project will be documented in this file.

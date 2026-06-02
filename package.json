@@ -1,6 +1,6 @@
 {
   "name": "@zan-shop/medusa-payment-moyasar",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Moyasar payment provider for Medusa. Supports credit card, Apple Pay, STC Pay, and Samsung Pay payments.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
